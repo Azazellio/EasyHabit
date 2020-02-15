@@ -32,7 +32,7 @@ namespace EasyHabit
         public int _minus3 { get; set; }
         public int _minus4 { get; set; }
 
-        public string _minus0Date { get; set; }  //Only for DB -- Have store DateTime somehow :)
+        public string _minus0Date { get; set; }  //Only for DB -- Have to store DateTime somehow :)
         public string _minus1Date { get; set; }
         public string _minus2Date { get; set; }
         public string _minus3Date { get; set; }
